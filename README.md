@@ -53,7 +53,7 @@ We use Python `venv` and [`uv`](https://github.com/astral-sh/uv) for dependency 
 1. Clone the repository  
 2. Create and activate a virtual environment:
    ```bash
-   python -m venv .venv
+   uv venv -p 3.9
    source .venv/bin/activate  # macOS/Linux
    ```
 3. Install dependencies:
