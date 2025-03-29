@@ -69,11 +69,13 @@ We use the [CoronaHack Chest X-ray Dataset](https://www.kaggle.com/datasets/prav
 
 To download:
 
-1. Place your `kaggle.json` API key in `~/.kaggle/`
+1. Place your `kaggle.json` API key in `~/.kaggle/`  (check https://www.kaggle.com/docs/api#authentication for Windows instructions)
 2. Run the script:
    ```bash
    python -m scripts.download_data
    ```
+
+
 
 This will download and extract the dataset to `data/raw/`.
 
