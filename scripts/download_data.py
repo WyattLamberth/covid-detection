@@ -4,6 +4,14 @@ from utils.paths import RAW_DATA_DIR
 from pathlib import Path
 
 def download_covid_xray_dataset():
+    # Check if key dataset files already exist
+    metadata_path = RAW_DATA_DIR / "Chest_xray_Corona_Metadata.csv"
+    dataset_dir = RAW_DATA_DIR / "Coronahack-Chest-XRay-Dataset"
+    
+    if metadata_path.exists() and dataset_dir.exists():
+        print("✅ Dataset files already exist. Skipping download.")
+        return
+        
     print("Downloading dataset from KaggleHub...")
     dataset_path = kagglehub.dataset_download("praveengovi/coronahack-chest-xraydataset")
 
