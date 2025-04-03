@@ -45,12 +45,13 @@ else
 fi
 
 echo "🖼️ Step 4: Predicting a sample image..."
-SAMPLE_IMAGE=$(find data/raw/Coronahack-Chest-XRay-Dataset/Coronahack-Chest-XRay-Dataset/train -type f -name "*.jpeg" | head -n 1)
+SAMPLE_IMAGE=$(find data/raw/Coronahack-Chest-XRay-Dataset/Coronahack-Chest-XRay-Dataset/train -type f -name "*.jpeg" | shuf -n 1)
 
 if [ -z "$SAMPLE_IMAGE" ]; then
     echo "❌ No image found for prediction test."
 else
     echo "Using sample image: $SAMPLE_IMAGE"
+    echo "Running prediction script..."
     python -m scripts.predict --image_path "$SAMPLE_IMAGE"
 fi
 

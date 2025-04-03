@@ -69,14 +69,16 @@ def generate_caption(image_tensor):
                 inputs = embeddings
 
             output, states = model.decoder.lstm(inputs, states)
-            logits = model.decoder.linear(output.squeeze(1))
-            predicted = logits.argmax(1)
-            predicted_word = tokenizer.idx2word[predicted.item()]
+            output = output[:, -1, :]  # use the output from the last time step
+            logits = model.decoder.linear(output)  # [1, vocab_size]
+            predicted = logits.argmax(dim=-1).item()  # safely get scalar token index
+            predicted_word = tokenizer.idx2word[predicted]
 
             if predicted_word == "<end>":
                 break
+
             generated.append(predicted_word)
-            input_token = predicted.unsqueeze(0)
+            input_token = torch.tensor([[predicted]], device=device)
 
     return " ".join(generated)
 
@@ -94,8 +96,8 @@ def predict(image_path):
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument("image", type=str, help="Path to chest X-ray image")
+    parser.add_argument("--image_path", type=str, help="Path to chest X-ray image")
     args = parser.parse_args()
 
-    caption = predict(args.image)
+    caption = predict(args.image_path)
     print(f"🩺 Predicted Caption: {caption}")

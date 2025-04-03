@@ -29,14 +29,30 @@ This project is for our machine learning course final project, due **April 27**.
 covid-detection/
 ├── data/
 │   └── raw/                  # Original dataset (downloaded via script)
+│       ├── Chest_xray_Corona_Metadata.csv  # Original metadata
+│       ├── Chest_xray_Corona_dataset_Summary.csv  # Dataset summary
+│       └── Coronahack-Chest-XRay-Dataset/
+│           └── Coronahack-Chest-XRay-Dataset/
+│               ├── image_captions.csv  # Generated captions for training
+│               ├── train/              # Training images
+│               └── test/               # Testing images
 ├── scripts/
+│   ├── collate.py            # Collates data for model training
+│   ├── dataset.py            # Dataset class for PyTorch
 │   ├── download_data.py      # Downloads dataset from Kaggle
-│   └── test_imports.py       # Sanity check for module imports
+│   ├── evaluate.py           # Model evaluation
+│   ├── model.py              # CNN+RNN model definitions
+│   ├── predict.py            # Generate predictions
+│   ├── preprocess_and_caption.py  # Processes images and generates captions
+│   ├── test_imports.py       # Sanity check for module imports
+│   └── train.py              # Model training
 ├── utils/
-│   └── paths.py              # Shared paths for the project
-├── models/                   # CNN and RNN model definitions
+│   ├── paths.py              # Shared paths for the project
+│   └── tokenizer.py          # Text tokenization utilities
 ├── notebooks/
-│   └── 01-exploration.ipynb  # Initial EDA and prototyping
+│   ├── dataset_exploration.ipynb  # Initial EDA and dataset analysis
+│   └── preprocess_and_caption_updated.ipynb  # Caption generation development
+├── run_workflow.sh           # Main workflow script
 ├── requirements.txt
 ├── README.md
 └── .venv/
@@ -75,22 +91,67 @@ To download:
    python -m scripts.download_data
    ```
 
-
-
 This will download and extract the dataset to `data/raw/`.
 
 ---
 
-## 🚧 Work In Progress
+## 🔄 Running the Workflow
 
-Planned next steps:
+We've created a workflow script to handle the entire pipeline. Run:
 
-- [ ] Preprocess images and assign rule-based captions
-- [ ] Build CNN encoder + LSTM decoder
-- [ ] Train baseline captioning model
-- [ ] Implement self-refinement pass
-- [ ] Run evaluation and ablation experiments
-- [ ] Finalize report and submit
+```bash
+./run_workflow.sh
+```
+
+### Available Options
+
+- `--no-download`: Skip dataset download (use if already downloaded)
+- `--no-captions`: Skip caption generation step
+- `--no-train`: Skip model training
+- `--evaluate`: Run model evaluation
+
+Example:
+```bash
+./run_workflow.sh --no-download --evaluate
+```
+
+---
+
+## 📊 Dataset Overview
+
+The dataset contains chest X-ray images categorized as:
+- Normal (1,576 images)
+- Pneumonia (4,334 images)
+  - Bacterial pneumonia (2,777 images)
+  - Viral pneumonia (1,493 images)
+  - COVID-19 (58 images)
+  - Other viral types (11 images)
+
+Our preprocessing generates medical-style captions for each image based on these classifications:
+
+| Classification | Generated Caption |
+|----------------|------------------|
+| Normal | "No signs of pneumonia." |
+| Bacterial Pneumonia | "Pneumonia likely due to bacterial infection." |
+| Viral Pneumonia | "Pneumonia likely due to viral infection." |
+| COVID-19 | "Lung opacity consistent with COVID-19." |
+| Other Viral | "Signs of pneumonia, likely viral origin." |
+
+---
+
+## 📓 Notebooks
+
+### Dataset Exploration
+The [dataset_exploration.ipynb](notebooks/dataset_exploration.ipynb) notebook provides:
+- Analysis of the dataset structure and metadata
+- Handling of missing values and duplicates
+- Visualization of label distributions
+
+### Caption Generation
+The [preprocess_and_caption_updated.ipynb](notebooks/preprocess_and_caption_updated.ipynb) notebook:
+- Loads and cleans the metadata
+- Implements rule-based caption generation
+- Creates and saves image paths and their associated captions for training
 
 ---
 
@@ -118,4 +179,6 @@ Our final report will follow the ACM SIG format and include:
 ## 📎 Notes
 
 - Use `python -m` to run scripts inside the project structure (e.g., `python -m scripts.download_data`)
-- Avoid using external `utils` packages — we use a local `utils/` folder
+- All paths are managed in `utils/paths.py` for consistency across notebooks and scripts
+- Caption generation is rule-based, creating descriptive text for each chest X-ray based on its metadata
+- The preprocessing pipeline handles image loading, validation, and caption generation
