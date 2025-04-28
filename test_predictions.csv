@@ -1,0 +1,888 @@
+image_name,true_caption,predicted_caption,true_label,predicted_label
+person945_bacteria_2870.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1492_bacteria_3894.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person337_bacteria_1558.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person489_bacteria_2063.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1395_virus_2398.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-1142-0001-0002.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1629_virus_2823.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person492_bacteria_2083.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0237-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person509_virus_1025.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0111-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person23_bacteria_105.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1903_bacteria_4797.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1092_virus_1811.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0071-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+NORMAL2-IM-1164-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person38_bacteria_194.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person625_virus_1199.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0316-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+2C26F453-AF3B-4517-BB9E-802CF2179543.jpeg,Lung opacity consistent with COVID-19.,consistent with 19 19,covid,unknown
+person374_bacteria_1711.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0828-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person464_virus_956.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person547_bacteria_2294.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person96_virus_178.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person810_virus_1446.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person569_bacteria_2360.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person965_bacteria_2890.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person321_bacteria_1488.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1423-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person38_bacteria_193.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person329_virus_682.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1678_virus_2895.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0571-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1463_virus_2516.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0622-0001-0002.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0279-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person1389_bacteria_3531.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0431-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1592_bacteria_4178.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0129-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1599_virus_2775.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0511-0001-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+NORMAL2-IM-0271-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person589_bacteria_2425.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person56_bacteria_269.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person596_bacteria_2440.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person534_bacteria_2253.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person929_bacteria_2854.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person119_bacteria_567.jpeg,Pneumonia likely due to bacterial infection.,likely to infection no,bacterial,unknown
+person1581_virus_2741.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person279_bacteria_1315.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person12_bacteria_48.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person363_bacteria_1655.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1602_virus_2780.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person140_virus_284.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0392-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person741_bacteria_2644.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person470_bacteria_1996.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person605_bacteria_2466.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1590_virus_2764.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person545_bacteria_2289.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0093-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1071_bacteria_3005.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person598_virus_1153.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person560_bacteria_2330.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1239_bacteria_3195.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person998_bacteria_2927.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person292_bacteria_1378.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1286_virus_2209.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person111_bacteria_535.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0363-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0395-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person489_bacteria_2066.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0317-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person143_bacteria_687.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person319_virus_645.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person315_bacteria_1465.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person939_bacteria_2864.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person337_bacteria_1554.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person718_virus_1316.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person24_virus_58.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person855_virus_1500.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person583_bacteria_2406.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0603-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person586_bacteria_2420.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person533_bacteria_2250.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1684_bacteria_4461.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person626_virus_1202.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1633_virus_2829.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person441_virus_896.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+44C8E3D6-20DA-42E9-B33B-96FA6D6DE12F.jpeg,Lung opacity consistent with COVID-19.,consistent with 19 origin,covid,unknown
+person101_bacteria_483.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person553_bacteria_2316.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person422_virus_867.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+1-s2.0-S0140673620303706-fx1_lrg.jpg,Lung opacity consistent with COVID-19.,bacterial viral signs,covid,bacterial
+person445_virus_913.jpeg,Pneumonia likely due to viral infection.,likely to infection no,viral,unknown
+person701_virus_1297.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1073_bacteria_3008.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person159_bacteria_747.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person418_bacteria_1843.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0095-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0473-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person842_bacteria_2762.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person58_bacteria_277.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person146_bacteria_700.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person531_bacteria_2235.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1343_bacteria_3418.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person564_virus_1104.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person465_bacteria_1979.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0957-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0329-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1343_bacteria_3413.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person423_bacteria_1855.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0741-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person1576_bacteria_4120.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0308-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person490_virus_996.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person6_bacteria_22.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person55_bacteria_263.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person688_virus_1281.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1135_bacteria_3077.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1134_bacteria_3076.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person520_virus_1039.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person538_bacteria_2268.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0511-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0571-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person112_bacteria_538.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1471_bacteria_3831.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person399_bacteria_1804.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0494-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person870_virus_1516.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person92_virus_174.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-1037-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person140_bacteria_667.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0206-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0875-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0389-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person901_virus_1555.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0362-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+NORMAL2-IM-0974-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1149_virus_1924.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person635_bacteria_2526.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person11_virus_38.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person54_virus_109.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person158_bacteria_742.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1352_bacteria_3443.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0893-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person463_bacteria_1971.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1059_bacteria_2993.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1345_bacteria_3425.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person937_virus_1599.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0282-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1374_bacteria_3507.jpeg,Pneumonia likely due to bacterial infection.,likely to infection no,bacterial,unknown
+NORMAL2-IM-0325-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-1089-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1188_bacteria_3137.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person347_bacteria_1595.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1590_bacteria_4174.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person442_virus_903.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0361-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1864_bacteria_4736.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1502_bacteria_3927.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0525-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1726_bacteria_4552.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person874_bacteria_2797.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person598_virus_1154.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1419_bacteria_3645.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0527-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0381-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person796_virus_1428.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0043-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1290_virus_2215.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1367_virus_2351.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1507_bacteria_3945.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1098_virus_1818.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-1273-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person376_virus_759.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0430-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1390_bacteria_3535.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person515_bacteria_2186.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1659_virus_2867.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1601_bacteria_4209.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person487_bacteria_2058.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person564_bacteria_2343.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1409_bacteria_3583.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1104_virus_1826.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person742_virus_1365.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+93FE0BB1-022D-4F24-9727-987A07975FFB.jpeg,Lung opacity consistent with COVID-19.,consistent with 19 19,covid,unknown
+person1591_virus_2765.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0383-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person881_bacteria_2805.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1328-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1542_virus_2683.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0652-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1308_bacteria_3292.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person294_bacteria_1381.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1273_virus_2191.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person936_virus_1598.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1124_virus_1851.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person997_bacteria_2926.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person19_virus_50.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1499_virus_2609.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person30_bacteria_148.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0491-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person415_bacteria_1838.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person30_bacteria_145.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person318_virus_644.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person297_virus_614.jpeg,Pneumonia likely due to viral infection.,likely to infection no,viral,unknown
+person83_bacteria_414.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person438_bacteria_1893.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person10_virus_35.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person40_bacteria_203.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0507-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1460_bacteria_3801.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1671_virus_2887.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person794_bacteria_2700.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person990_bacteria_2917.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1236_virus_2096.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person259_virus_540.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person517_bacteria_2196.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1636_bacteria_4337.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+streptococcus-pneumoniae-pneumonia-temporal-evolution-1-day1.jpg,"Signs of pneumonia, likely viral origin.",bacterial viral signs,viral,bacterial
+person1639_bacteria_4345.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0559-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person712_virus_1310.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person82_bacteria_403.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1496_bacteria_3909.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0556-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0612-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person974_bacteria_2899.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0950-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person343_virus_704.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1488_virus_2585.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person441_bacteria_1907.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0535-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person392_bacteria_1787.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0675-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person296_virus_613.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0225-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person291_bacteria_1377.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1535_bacteria_4016.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0101-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person1231_bacteria_3186.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1169_virus_1968.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-1110-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1638_bacteria_4342.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person348_virus_723.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person300_bacteria_1423.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person124_virus_239.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1029_bacteria_2961.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0364-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person364_bacteria_1657.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1669_bacteria_4424.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1451_virus_2480.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1618_bacteria_4258.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1648_bacteria_4373.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person569_bacteria_2363.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1405_bacteria_3567.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person579_bacteria_2386.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0725-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+IM-0619-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person863_bacteria_2785.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person458_bacteria_1952.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0553-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0340-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1137_virus_1876.jpeg,Pneumonia likely due to viral infection.,likely to infection no,viral,unknown
+IM-0662-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1054_bacteria_2988.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0631-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-1025-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person351_bacteria_1622.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person326_bacteria_1504.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0362-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1343_bacteria_3419.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1307_bacteria_3278.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person681_bacteria_2576.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0419-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+FE9F9A5D-2830-46F9-851B-1FF4534959BE.jpeg,Lung opacity consistent with COVID-19.,consistent covid covid origin origin,covid,covid
+NORMAL2-IM-0887-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person914_virus_1571.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0321-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1263_bacteria_3221.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0569-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person376_bacteria_1716.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person441_bacteria_1911.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0429-0001-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person504_bacteria_2129.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0616-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+gr1_lrg-a.jpg,Lung opacity consistent with COVID-19.,bacterial viral signs,covid,bacterial
+IM-0474-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0749-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person35_bacteria_180.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1159_virus_1944.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person400_virus_794.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person518_bacteria_2199.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1231-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person124_bacteria_592.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1847_bacteria_4716.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person122_bacteria_582.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person328_bacteria_1513.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1168_virus_1965.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0203-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0105-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person363_bacteria_1654.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person405_bacteria_1817.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1066_virus_1769.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1253_bacteria_3211.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person868_virus_1514.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0796-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0387-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person143_virus_289.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person853_bacteria_2774.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person556_bacteria_2326.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0666-0001-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0364-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person1308_virus_2253.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person875_bacteria_2798.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0668-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person988_bacteria_2915.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1183_bacteria_3131.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person35_bacteria_178.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person314_bacteria_1462.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1814_bacteria_4669.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1354_bacteria_3448.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1078_bacteria_3018.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person320_virus_647.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1628_virus_2822.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0924-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person461_bacteria_1960.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0016-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0060-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person409_virus_820.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1453_bacteria_3770.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person75_bacteria_368.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0445-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1700_bacteria_4500.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1349_bacteria_3438.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1522_virus_2651.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person609_bacteria_2474.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person470_bacteria_2000.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person287_bacteria_1354.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person152_bacteria_720.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1617_bacteria_4256.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1544_bacteria_4035.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0776-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-1227-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1649_virus_2850.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person2_bacteria_3.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1343_bacteria_3414.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person122_bacteria_581.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person969_bacteria_2894.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0774-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1100_virus_1820.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person43_bacteria_216.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0819-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0781-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0524-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person70_bacteria_346.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1053_bacteria_2987.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1293_virus_2219.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0092-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0961-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person457_bacteria_1949.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person456_virus_943.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1667_bacteria_4417.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person752_virus_1377.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person9_bacteria_41.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person359_bacteria_1644.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0951-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1406_virus_2409.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1518_bacteria_3969.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person564_bacteria_2347.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person132_bacteria_632.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person328_bacteria_1515.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1770_bacteria_4613.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person552_virus_1092.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1525_bacteria_3985.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1148-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person616_virus_1186.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1657_bacteria_4398.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0599-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0910-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person61_bacteria_292.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person38_bacteria_196.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0629-0001-0002.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person55_bacteria_264.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1308_bacteria_3288.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0706-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person273_virus_562.jpeg,Pneumonia likely due to viral infection.,likely to infection no,viral,unknown
+person501_bacteria_2114.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person386_virus_771.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person740_bacteria_2643.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1186_bacteria_3134.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person62_bacteria_303.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0505-0001-0002.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1474_virus_2557.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1219_bacteria_3172.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person483_bacteria_2046.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person656_virus_1238.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1304_bacteria_3269.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person133_bacteria_635.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person570_virus_1112.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person397_bacteria_1797.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1241-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person395_bacteria_1795.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1079_virus_1789.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person418_virus_852.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person382_bacteria_1739.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0288-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person563_virus_1103.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1138_virus_1879.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1411_bacteria_3610.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0484-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person292_virus_602.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0523-0001-0002.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person332_bacteria_1531.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0262-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person371_bacteria_1700.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1672_virus_2888.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-1317-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1217_bacteria_3169.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1342_bacteria_3407.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0508-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1418_bacteria_3638.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0011-0001-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1673_bacteria_4434.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person511_bacteria_2153.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1366_bacteria_3490.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0435-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person278_virus_575.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0294-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0564-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person296_bacteria_1394.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0619-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1228_bacteria_3183.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person78_virus_140.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person609_virus_1176.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1325_virus_2287.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person67_bacteria_333.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person963_virus_1636.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person771_bacteria_2675.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person624_bacteria_2497.jpeg,Pneumonia likely due to bacterial infection.,likely to infection no,bacterial,unknown
+person716_virus_1314.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person281_bacteria_1327.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1202_virus_2045.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person43_bacteria_213.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1429_bacteria_3688.jpeg,Pneumonia likely due to bacterial infection.,likely to infection no,bacterial,unknown
+person147_bacteria_711.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0540-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-1091-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person334_bacteria_1542.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person421_bacteria_1852.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person69_bacteria_338.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person529_virus_1050.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person538_virus_1068.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person459_bacteria_1956.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1644_bacteria_4362.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0822-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person23_bacteria_104.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0399-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person726_bacteria_2628.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person78_bacteria_386.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person310_virus_633.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person758_bacteria_2662.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1197_virus_2039.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1044_bacteria_2978.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person57_bacteria_271.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person24_bacteria_111.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0378-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person291_virus_596.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1211_bacteria_3163.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1332-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0635-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person518_bacteria_2200.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person440_bacteria_1897.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0305-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+IM-0025-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0275-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0482-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person314_virus_639.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0371-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person62_bacteria_299.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0578-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person952_bacteria_2877.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person934_bacteria_2859.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0641-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0509-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1649_bacteria_4377.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person258_bacteria_1216.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person980_bacteria_2906.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person255_virus_531.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person835_bacteria_2749.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person789_bacteria_2694.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person569_bacteria_2362.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person38_virus_83.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1387_virus_2382.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person817_bacteria_2728.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1391_bacteria_3537.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person427_bacteria_1865.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1362-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person36_bacteria_184.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1180_virus_2008.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person563_bacteria_2340.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0648-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-1310-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1488_virus_2589.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person470_bacteria_2003.jpeg,Pneumonia likely due to bacterial infection.,likely to infection no,bacterial,unknown
+person535_bacteria_2256.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person601_bacteria_2459.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1460_virus_2509.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person343_bacteria_1584.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0491-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-1277-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1446_bacteria_3737.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person337_bacteria_1560.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person469_bacteria_1995.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1345_bacteria_3427.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1491_bacteria_3892.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person594_bacteria_2436.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person355_virus_730.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0350-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person529_bacteria_2229.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person42_virus_89.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person315_bacteria_1464.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person309_virus_631.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person281_bacteria_1332.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0439-0001-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0810-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1400_bacteria_3550.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person462_bacteria_1967.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1226_virus_2077.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person811_bacteria_2721.jpeg,Pneumonia likely due to bacterial infection.,likely to infection no,bacterial,unknown
+person126_bacteria_600.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1006-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1927_bacteria_4836.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1371_virus_2361.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person97_bacteria_468.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person841_bacteria_2760.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person497_virus_1005.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0554-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person1446_bacteria_3739.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person993_bacteria_2921.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0311-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1116_virus_1841.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0277-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1702_bacteria_4510.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1388_bacteria_3529.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1245-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1287_virus_2210.jpeg,Pneumonia likely due to viral infection.,likely to infection no,viral,unknown
+person162_virus_319.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1236_bacteria_3192.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person947_bacteria_2872.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person630_bacteria_2512.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1702_bacteria_4511.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1259_virus_2139.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0681-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person599_bacteria_2455.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person480_virus_982.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person264_bacteria_1229.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0486-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0235-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person907_virus_1563.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0229-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person1641_virus_2840.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0646-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person29_virus_64.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person266_bacteria_1247.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1046_virus_1742.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0288-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0133-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0341-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person445_virus_916.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0672-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person419_virus_859.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person647_bacteria_2539.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person398_bacteria_1799.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person51_bacteria_248.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1126-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person92_bacteria_451.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1028_bacteria_2960.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1168_virus_1966.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person275_virus_565.jpeg,Pneumonia likely due to viral infection.,likely to infection no,viral,unknown
+person1678_bacteria_4446.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person979_virus_1654.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person707_virus_1305.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0549-0001-0002.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-1261-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1477_virus_2561.jpeg,Pneumonia likely due to viral infection.,likely to infection no,viral,unknown
+person843_virus_1485.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0294-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person364_bacteria_1659.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0400-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1262_bacteria_3220.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0727-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person455_bacteria_1947.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person12_bacteria_46.jpeg,Pneumonia likely due to bacterial infection.,likely to infection no,bacterial,unknown
+person568_bacteria_2359.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1619_bacteria_4268.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1649_bacteria_4379.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1347-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person277_bacteria_1307.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1008_bacteria_2939.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1285-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0030-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1318_virus_2274.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person866_bacteria_2788.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1125_virus_1852.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person16_virus_47.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1664_virus_2877.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0906-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1034_bacteria_2968.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1113-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person17_bacteria_56.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person666_virus_1251.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0280-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person559_virus_1099.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person588_bacteria_2422.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person67_bacteria_330.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0637-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person443_bacteria_1923.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person797_virus_1429.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person470_bacteria_1998.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1507_bacteria_3935.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1545_bacteria_4042.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person653_bacteria_2545.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person941_virus_1610.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person517_virus_1034.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1074_bacteria_3014.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0488-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person123_virus_230.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person831_bacteria_2742.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1453_bacteria_3772.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person33_bacteria_174.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1050-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1650_virus_2854.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+5e6dd879fde9502400e58b2f.jpeg,Lung opacity consistent with COVID-19.,consistent covid covid origin origin,covid,covid
+person468_bacteria_1990.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0633-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person335_virus_690.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person257_bacteria_1199.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person439_virus_890.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1620_virus_2807.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person135_bacteria_647.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1109_bacteria_3050.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person153_bacteria_726.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1700_bacteria_4502.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0626-0001-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1176_virus_1996.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1091_virus_1810.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person931_bacteria_2856.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1258_bacteria_3216.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person321_bacteria_1484.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person81_bacteria_397.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1413_bacteria_3615.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0536-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0414-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0234-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0656-0001-0002.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1699_bacteria_4498.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person499_bacteria_2103.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1372_bacteria_3501.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person877_bacteria_2800.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1077_bacteria_3017.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person124_virus_233.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1467_virus_2544.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person537_bacteria_2264.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1232_virus_2089.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1454_bacteria_3781.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person332_bacteria_1537.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0196-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person639_virus_1220.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1333_bacteria_3383.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person300_bacteria_1422.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person537_bacteria_2263.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person768_virus_1396.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person271_virus_556.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0682-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person64_bacteria_312.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1877_bacteria_4761.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person99_bacteria_473.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1555_bacteria_4059.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person574_bacteria_2371.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1183-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person37_virus_82.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1351_virus_2330.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person460_virus_948.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1268_bacteria_3227.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1241_bacteria_3197.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person600_bacteria_2457.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1128-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person431_virus_880.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person342_virus_702.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person870_bacteria_2792.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1502_bacteria_3929.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1556_bacteria_4062.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1565_bacteria_4095.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1627_virus_2819.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1888_bacteria_4775.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person422_virus_868.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person573_virus_1116.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person23_bacteria_85.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person950_virus_1621.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0640-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person336_bacteria_1553.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0693-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person740_virus_1362.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person442_virus_906.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0404-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0368-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person593_bacteria_2435.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0195-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0661-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person400_bacteria_1807.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0566-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person397_virus_790.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person619_virus_1190.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1562_bacteria_4081.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1628_bacteria_4294.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person88_bacteria_439.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1407_virus_2410.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person424_bacteria_1859.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person618_bacteria_2489.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+acute-respiratory-distress-syndrome-ards.jpg,"Signs of pneumonia, likely viral origin.",consistent with 19 19,viral,unknown
+person1164_bacteria_3110.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1336_virus_2306.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person804_bacteria_2711.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0391-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1075_bacteria_3015.jpeg,Pneumonia likely due to bacterial infection.,likely to infection no,bacterial,unknown
+IM-0384-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person298_bacteria_1408.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person953_bacteria_2878.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0402-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person258_bacteria_1214.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person554_virus_1094.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-1064-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person1048_virus_1744.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1096_bacteria_3037.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1141_virus_1890.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-1116-0001-0002.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person325_bacteria_1501.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1312_virus_2261.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1267_bacteria_3226.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person62_bacteria_302.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person732_virus_1353.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person614_bacteria_2481.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1264-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person1538_bacteria_4021.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person464_bacteria_1974.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person581_bacteria_2390.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0909-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person407_bacteria_1822.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person119_virus_225.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0280-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1482_virus_2569.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1514_virus_2633.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person660_bacteria_2552.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1816_bacteria_4674.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1147_virus_1919.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1430_virus_2444.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person549_bacteria_2306.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0381-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person437_bacteria_1885.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person25_bacteria_118.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0608-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1223_bacteria_3178.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0236-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1476_virus_2560.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0440-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1395_bacteria_3544.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1249_bacteria_3205.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person312_bacteria_1455.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1018_virus_1706.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person139_bacteria_665.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person592_virus_1141.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person392_bacteria_1786.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person362_virus_741.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person264_virus_547.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person325_bacteria_1498.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1234_virus_2093.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-1376-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+NORMAL2-IM-0529-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1178_bacteria_3126.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person334_virus_689.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1619_bacteria_4270.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1206_bacteria_3158.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1035-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-1337-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0338-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person616_bacteria_2487.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1605_bacteria_4226.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0630-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0172-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1295_bacteria_3258.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0397-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0530-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1320_virus_2277.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1288_virus_2211.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person413_bacteria_1831.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0588-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person1230_virus_2081.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1745_bacteria_4584.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1527_bacteria_3990.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person428_bacteria_1869.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1676_bacteria_4441.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0160-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person381_bacteria_1730.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1348_virus_2324.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person253_bacteria_1154.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person31_bacteria_164.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1242_bacteria_3198.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0210-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person1556_virus_2699.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1430_bacteria_3696.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0066-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person921_virus_1578.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-1341-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0719-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person130_bacteria_623.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person276_bacteria_1297.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1000_bacteria_2931.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-1292-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+41591_2020_819_Fig1_HTML.webp-day5.png,Lung opacity consistent with COVID-19.,consistent with 19 origin,covid,unknown
+person487_virus_991.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person425_virus_871.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person414_virus_845.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1841_bacteria_4708.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person589_bacteria_2424.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0380-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1502_bacteria_3923.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0642-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person340_virus_698.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person745_virus_1368.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person853_virus_1498.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1154_bacteria_3099.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person586_bacteria_2418.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person266_bacteria_1239.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person55_bacteria_265.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1332_virus_2300.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0409-0001.jpeg,No signs of pneumonia.,bacterial viral signs,normal,bacterial
+person268_virus_553.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person504_bacteria_2130.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person111_bacteria_534.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person81_virus_152.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person1451_virus_2482.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+person104_bacteria_491.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1598_bacteria_4197.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0664-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person91_bacteria_446.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+NORMAL2-IM-0395-0001-0002.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1651_bacteria_4381.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0261-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0534-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1647_bacteria_4372.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person82_bacteria_405.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person5_bacteria_19.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person351_bacteria_1617.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1480_virus_2566.jpeg,Pneumonia likely due to viral infection.,likely to infection no,viral,unknown
+IM-0636-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1600_virus_2777.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0354-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person73_bacteria_358.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person688_bacteria_2584.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1715_bacteria_4532.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1589_bacteria_4171.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person512_bacteria_2154.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1347_virus_2323.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+IM-0546-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person359_bacteria_1642.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person147_bacteria_705.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person1310_bacteria_3297.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0416-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0714-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person31_bacteria_161.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person976_virus_1651.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-0587-0001-0002.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+IM-0330-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person1617_bacteria_4255.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+IM-0755-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-1254-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person293_virus_604.jpeg,Pneumonia likely due to viral infection.,bacterial viral signs,viral,bacterial
+NORMAL2-IM-1286-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+NORMAL2-IM-0567-0001.jpeg,No signs of pneumonia.,likely to infection no,normal,unknown
+person279_bacteria_1316.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person629_bacteria_2509.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person447_bacteria_1932.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial
+person35_bacteria_181.jpeg,Pneumonia likely due to bacterial infection.,bacterial viral signs,bacterial,bacterial

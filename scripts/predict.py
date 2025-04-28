@@ -1,3 +1,4 @@
+import pandas as pd
 import torch
 from torchvision import transforms
 from PIL import Image
@@ -21,7 +22,6 @@ VOCAB_PATH = "data/raw/Coronahack-Chest-XRay-Dataset/Coronahack-Chest-XRay-Datas
 # -------------------------------
 # 2. Load Tokenizer and Vocab
 # -------------------------------
-import pandas as pd
 df = pd.read_csv(VOCAB_PATH)
 tokenizer = Tokenizer()
 tokenizer.build_vocab(df["caption"])
@@ -45,6 +45,7 @@ transform = transforms.Compose([
                          std=[0.229, 0.224, 0.225])
 ])
 
+
 def preprocess_image(image_path):
     image = Image.open(image_path).convert("RGB")
     image = transform(image)
@@ -53,11 +54,14 @@ def preprocess_image(image_path):
 # -------------------------------
 # 5. Caption Generation
 # -------------------------------
-def generate_caption(image_tensor):
+
+
+def generate_caption(model, image_tensor, tokenizer, device):
     with torch.no_grad():
-        features = model.encoder(image_tensor)
+        features = model.encoder(image_tensor.to(device))
         states = None
-        input_token = torch.tensor([[tokenizer.word2idx["<start>"]]], device=device)
+        input_token = torch.tensor(
+            [[tokenizer.word2idx["<start>"]]], device=device)
 
         generated = []
 
@@ -69,9 +73,9 @@ def generate_caption(image_tensor):
                 inputs = embeddings
 
             output, states = model.decoder.lstm(inputs, states)
-            output = output[:, -1, :]  # use the output from the last time step
-            logits = model.decoder.linear(output)  # [1, vocab_size]
-            predicted = logits.argmax(dim=-1).item()  # safely get scalar token index
+            output = output[:, -1, :]
+            logits = model.decoder.linear(output)
+            predicted = logits.argmax(dim=-1).item()
             predicted_word = tokenizer.idx2word[predicted]
 
             if predicted_word == "<end>":
@@ -82,13 +86,15 @@ def generate_caption(image_tensor):
 
     return " ".join(generated)
 
+
 # -------------------------------
 # 6. Run Prediction
 # -------------------------------
 def predict(image_path):
     image_tensor = preprocess_image(image_path)
-    caption = generate_caption(image_tensor)
+    caption = generate_caption(model, image_tensor, tokenizer, device)
     return caption
+
 
 # -------------------------------
 # 7. Entry Point
@@ -96,7 +102,8 @@ def predict(image_path):
 if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument("--image_path", type=str, help="Path to chest X-ray image")
+    parser.add_argument("--image_path", type=str,
+                        help="Path to chest X-ray image")
     args = parser.parse_args()
 
     caption = predict(args.image_path)
